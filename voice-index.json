@@ -1,0 +1,2286 @@
+{
+  "version": 1,
+  "hashAlgorithm": "SHA-256",
+  "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+  "vendorCommit": "022e286b98fbec7e1e916cb940cdf532cd9f488e",
+  "referenceSha256": "592387e5f287a4118838605e9bdf2958e400dfa2acef1fed8d83b0c02b925fe0",
+  "source": {
+    "backend": "official-qwen-tts-demo",
+    "device": "cpu",
+    "dtype": "float32",
+    "referenceSha256": "592387e5f287a4118838605e9bdf2958e400dfa2acef1fed8d83b0c02b925fe0",
+    "referenceText": "",
+    "language": "Korean",
+    "xVectorOnly": true,
+    "maxNewTokens": 1024,
+    "mp3": "libmp3lame-64k-mono-24000"
+  },
+  "clips": {
+    "032d1b93e8598f8a459d27231c2c2dbf40b88bb3195850c466522161603727c8": {
+      "text": "연애의 조건의 영어 제목은?. Love Options. 공식 MV 제목은 Love Options(연애의 조건)이에요.",
+      "src": "./voice-clips/032d1b93e8598f8a459d27231c2c2dbf40b88bb3195850c466522161603727c8.mp3",
+      "bytes": 61484,
+      "durationSeconds": 7.6,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "05fc74d733d273bb45a0224746d2dbaede13acbfccabe3387747a884fbe8af03": {
+      "text": "선택한 공식 영상. 제주도 1박2일 브이로그 공식 채널. 다혜가다했다DAHYE 공개일. 2026-06-28 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지",
+      "src": "./voice-clips/05fc74d733d273bb45a0224746d2dbaede13acbfccabe3387747a884fbe8af03.mp3",
+      "bytes": 183020,
+      "durationSeconds": 22.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "068b66bf6158bc3fec2714ba45b7b4b67b8d929192c460f2a81f85fad6928de8": {
+      "text": "상익님 전용 설정이에요. 글자를 크고 진하게 바꿀 수 있어요. 개인 기록은 읽지 않아요.",
+      "src": "./voice-clips/068b66bf6158bc3fec2714ba45b7b4b67b8d929192c460f2a81f85fad6928de8.mp3",
+      "bytes": 50540,
+      "durationSeconds": 6.24,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "0a8a661cb650aff743ed3b2d5e486314a1548d29b21a0f5a7e8660552f4471ae": {
+      "text": "오늘 해 본 작은 일을 눌러 표시해요. 다시 누르면 표시를 지울 수 있어요. 시간 제한은 없어요.",
+      "src": "./voice-clips/0a8a661cb650aff743ed3b2d5e486314a1548d29b21a0f5a7e8660552f4471ae.mp3",
+      "bytes": 51308,
+      "durationSeconds": 6.32,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "0a9c64894224041cd03b0f8fd9e84e0ecfc78581b44e36d68c97d81c58d4f548": {
+      "text": "베스티의 네 멤버는?. 혜연·유지·다혜·해령. Excuse Me 공식 MV 설명에 네 멤버가 소개돼요.",
+      "src": "./voice-clips/0a9c64894224041cd03b0f8fd9e84e0ecfc78581b44e36d68c97d81c58d4f548.mp3",
+      "bytes": 60908,
+      "durationSeconds": 7.52,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "0d4e519724e99850bf405c9574d15fbadf3f7b9b6dbf0153c63c8539c2693451": {
+      "text": "2013년 연애의 조건 무대가 연결된 방송은?. 엠카운트다운. Mnet K-POP에 2013년 10월 17일 엠카운트다운 무대가 공개됐어요.",
+      "src": "./voice-clips/0d4e519724e99850bf405c9574d15fbadf3f7b9b6dbf0153c63c8539c2693451.mp3",
+      "bytes": 80684,
+      "durationSeconds": 10,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "0d91e2f9adde91d7b53a3afb5599d410bdaa3f40283c1226fd64a455eeab5808": {
+      "text": "나만 보는 일기와 편지예요. 기록은 이 기기에만 저장되며 읽거나 외부 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/0d91e2f9adde91d7b53a3afb5599d410bdaa3f40283c1226fd64a455eeab5808.mp3",
+      "bytes": 65900,
+      "durationSeconds": 8.16,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "0e66ade226b997bfef97f74ad26ff8dcd85dab23be15e647917a6c5a232a18b0": {
+      "text": "두근두근의 영어 제목은? 보기. Pitapat. Heartbeat. Hot Baby",
+      "src": "./voice-clips/0e66ade226b997bfef97f74ad26ff8dcd85dab23be15e647917a6c5a232a18b0.mp3",
+      "bytes": 51308,
+      "durationSeconds": 6.32,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "179397283b787db51cc914a2c8736d5ffacc30c1bdcc4ce17d1797c8cb66123c": {
+      "text": "상익님을 위한 팬메이드 동행 도우미예요. 앱이 작성한 안내이며, 실제 베스티의 녹음이나 대화가 아니에요. 오늘도 천천히 쉬어가요. 대화 내용과 개인 일정, 할 일은 읽거나 외부로 보내지 않아요.",
+      "src": "./voice-clips/179397283b787db51cc914a2c8736d5ffacc30c1bdcc4ce17d1797c8cb66123c.mp3",
+      "bytes": 124268,
+      "durationSeconds": 15.44,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "1d5beaff6852d47c38265cae99f975efa1bc643e24a77082e70805249a2c13c7": {
+      "text": "일정을 적는 화면이에요. 개인 일정과 이름은 읽지 않아요.",
+      "src": "./voice-clips/1d5beaff6852d47c38265cae99f975efa1bc643e24a77082e70805249a2c13c7.mp3",
+      "bytes": 37868,
+      "durationSeconds": 4.64,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "25064af9eaa608c84bfd1a72d8bab77f5bce4e532c1557e90b2262cde4357803": {
+      "text": "베스티의 영어 이름은? 보기. BESTie. BESTY. BEAST",
+      "src": "./voice-clips/25064af9eaa608c84bfd1a72d8bab77f5bce4e532c1557e90b2262cde4357803.mp3",
+      "bytes": 36524,
+      "durationSeconds": 4.48,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "25f58f0992a334967a4b3d5ce9a3b881421ec2d3808d61cfa28ddd22bdfa9b76": {
+      "text": "선택한 공식 영상. DaHye - Poison Ep.437 공식 채널. ARIRANG K-POP 공개일. 2020-10-23 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은",
+      "src": "./voice-clips/25f58f0992a334967a4b3d5ce9a3b881421ec2d3808d61cfa28ddd22bdfa9b76.mp3",
+      "bytes": 186284,
+      "durationSeconds": 23.2,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "2e13adb39fc6916d200c18289d7ba08ad5d2c354c0d6289b234af752913d053e": {
+      "text": "다혜와 베스티를 응원하는 팬 놀이터에 온 걸 환영해요.",
+      "src": "./voice-clips/2e13adb39fc6916d200c18289d7ba08ad5d2c354c0d6289b234af752913d053e.mp3",
+      "bytes": 33260,
+      "durationSeconds": 4.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "313b9d17b82c5a103a3b5a8a1811c503df4f4ea6b322382ea1dd0254d0a88146": {
+      "text": "선택한 공식 영상. 베스티(BESTie) - 연애의 조건 안무영상 2026.ver 공식 채널. 다혜가다했다DAHYE 공개일. 2026-10-29 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습",
+      "src": "./voice-clips/313b9d17b82c5a103a3b5a8a1811c503df4f4ea6b322382ea1dd0254d0a88146.mp3",
+      "bytes": 191468,
+      "durationSeconds": 23.84,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "33cdf717dc9627229721e0d37ef8408f303cd1370f79dc595203bcb1193f8f85": {
+      "text": "선택한 공식 영상. DaHye, Poison [THE SHOW 201013] 공식 채널. THE K-POP 공개일. 2020-10-13 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은",
+      "src": "./voice-clips/33cdf717dc9627229721e0d37ef8408f303cd1370f79dc595203bcb1193f8f85.mp3",
+      "bytes": 167084,
+      "durationSeconds": 20.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "3665092fd45e8570bf26637608a719f78fa8ea598e28878a88ddc55343d8ded5": {
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ THANK U VERY MUCH 공식 채널. 1theK (원더케이) 공개일. 2014-02-28 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은",
+      "src": "./voice-clips/3665092fd45e8570bf26637608a719f78fa8ea598e28878a88ddc55343d8ded5.mp3",
+      "bytes": 159980,
+      "durationSeconds": 19.92,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "3678b1dd5f3f04e0cc81c19322a78fe2defed9b5c71b7ddddcbc21fbd4b75db2": {
+      "text": "상익아.",
+      "src": "./voice-clips/3678b1dd5f3f04e0cc81c19322a78fe2defed9b5c71b7ddddcbc21fbd4b75db2.mp3",
+      "bytes": 8300,
+      "durationSeconds": 0.96,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "39ed6e8fba149bf275328ac702d25b36f16df29d8dc8efda3e9710f1339e9616": {
+      "text": "이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/39ed6e8fba149bf275328ac702d25b36f16df29d8dc8efda3e9710f1339e9616.mp3",
+      "bytes": 49388,
+      "durationSeconds": 6.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "3bdb67724542f9773042bda3f67e614038310b327b539c374a352103faeaa922": {
+      "text": "않아요.",
+      "src": "./voice-clips/3bdb67724542f9773042bda3f67e614038310b327b539c374a352103faeaa922.mp3",
+      "bytes": 8300,
+      "durationSeconds": 0.96,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "3d9aaafefbbfa692a85b86de5e7a87f6c9e08ca18a8f28eeb677ed008ff3893e": {
+      "text": "선택한 공식 영상. 다혜 (DaHye) - 나쁜 피 (Bad Blood) M/V 공식 채널. STONE MUSIC 공개일. 2020-11-05 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와",
+      "src": "./voice-clips/3d9aaafefbbfa692a85b86de5e7a87f6c9e08ca18a8f28eeb677ed008ff3893e.mp3",
+      "bytes": 169004,
+      "durationSeconds": 21.04,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "4883261fac55634b47ebdf4f689e2751ce87d369bef2244dc226a5204cf69ede": {
+      "text": "2013년 연애의 조건 무대가 연결된 방송은? 보기. 엠카운트다운. 인기가요. 뮤직뱅크",
+      "src": "./voice-clips/4883261fac55634b47ebdf4f689e2751ce87d369bef2244dc226a5204cf69ede.mp3",
+      "bytes": 58988,
+      "durationSeconds": 7.28,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "4af96d7d8537282085db674f13f43d6cebd39b91cd7591aef9f15ee1487e7f50": {
+      "text": "선택한 공식 영상. BESTie - Excuse Me [Music Bank COMEBACK / 2015.05.08] 공식 채널. KBS WORLD TV 공개일. 2015-05-26 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브",
+      "src": "./voice-clips/4af96d7d8537282085db674f13f43d6cebd39b91cd7591aef9f15ee1487e7f50.mp3",
+      "bytes": 166508,
+      "durationSeconds": 20.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "4b95528df0a182d42c13d36224d5efdc96665bf7ed4a77b34aa763a57552c887": {
+      "text": "달력이에요. 날짜를 골라 일정을 확인하거나 직접 적을 수 있어요. 개인 일정의 제목, 이름과 내용은 음성으로 읽지 않아요.",
+      "src": "./voice-clips/4b95528df0a182d42c13d36224d5efdc96665bf7ed4a77b34aa763a57552c887.mp3",
+      "bytes": 63980,
+      "durationSeconds": 7.92,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "4c5641f6cd85d7b3040750e0f2d65a1640b29eea77c17ad184bfeac4fbf67c1a": {
+      "text": "베스티의 영어 이름은?. BESTie. 공식 뮤직비디오 제목에서 BESTie로 표기해요.",
+      "src": "./voice-clips/4c5641f6cd85d7b3040750e0f2d65a1640b29eea77c17ad184bfeac4fbf67c1a.mp3",
+      "bytes": 50540,
+      "durationSeconds": 6.24,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "4e20434cf94e1766b63213db3232f60b6760c3dd96cc4d0e8b171584b6087e3f": {
+      "text": "선택한 공식 영상. 다혜 Lemon Cherry Bomb 엠카운트다운 공식 채널. Mnet K-POP 공개일. 2025-08-28 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접",
+      "src": "./voice-clips/4e20434cf94e1766b63213db3232f60b6760c3dd96cc4d0e8b171584b6087e3f.mp3",
+      "bytes": 169004,
+      "durationSeconds": 21.04,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "5059765dac4c44aebc4cb6b752b7c5a811f0b9538a342f401395188201ecf9cd": {
+      "text": "사진첩이에요. 공식 영상 표지 카드를 눌러 크게 볼 수 있어요. 마음에 드는 카드는 보물함에 담아 보세요.",
+      "src": "./voice-clips/5059765dac4c44aebc4cb6b752b7c5a811f0b9538a342f401395188201ecf9cd.mp3",
+      "bytes": 69164,
+      "durationSeconds": 8.56,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "538347ac571af807a8e5bae6c649f45d2e25dfcfb2e6f63f5a07e7611ef9d8f8": {
+      "text": "선택한 공식 영상. DaHye - Poison Simply K-Pop 공식 채널. ARIRANG K-POP 공개일. 2020-10-16 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요.",
+      "src": "./voice-clips/538347ac571af807a8e5bae6c649f45d2e25dfcfb2e6f63f5a07e7611ef9d8f8.mp3",
+      "bytes": 169580,
+      "durationSeconds": 21.12,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "5384f9b60f1025eea27b458fe0e9ef379aa112b54fef7600c5c43071964cc1c0": {
+      "text": "선택한 공식 영상. 다혜 직캠 Cherry Road @MCOUNTDOWN 공식 채널. M2 공개일. 2025-02-06 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은",
+      "src": "./voice-clips/5384f9b60f1025eea27b458fe0e9ef379aa112b54fef7600c5c43071964cc1c0.mp3",
+      "bytes": 163244,
+      "durationSeconds": 20.32,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "5486bf8ff76d6bdc845b1d877b276e1c6df0a834966f8c833ffc686c02c6e373": {
+      "text": "가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/5486bf8ff76d6bdc845b1d877b276e1c6df0a834966f8c833ffc686c02c6e373.mp3",
+      "bytes": 42284,
+      "durationSeconds": 5.2,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "54b8e693cfa8ebdf0c9ee5b40641026af64922b64914b5e5e38cda18f6f01f34": {
+      "text": "선택한 공식 영상. 250221 Cherry Road 공식 채널. 다혜가다했다DAHYE 공개일. 2025-03-08 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사,",
+      "src": "./voice-clips/54b8e693cfa8ebdf0c9ee5b40641026af64922b64914b5e5e38cda18f6f01f34.mp3",
+      "bytes": 163820,
+      "durationSeconds": 20.4,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "55a942712ffa9a6b92d1ba4ad896343a1b5de93aefeb0f5e3981d558c11d7fad": {
+      "text": "감사의 말을 담은 영어 제목의 곡은? 보기. THANK U VERY MUCH. Excuse Me. Love Options",
+      "src": "./voice-clips/55a942712ffa9a6b92d1ba4ad896343a1b5de93aefeb0f5e3981d558c11d7fad.mp3",
+      "bytes": 62060,
+      "durationSeconds": 7.68,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "56b35cde067b3b05840e706c545ec73313c36466b86d62ad26763a8c73384861": {
+      "text": "선택한 공식 영상. 베스티 첫 만남부터 음악방송까지ㅣ베스티 비하인드 브이로그 공식 채널. 다혜가다했다DAHYE 공개일. 2026-11-08 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와",
+      "src": "./voice-clips/56b35cde067b3b05840e706c545ec73313c36466b86d62ad26763a8c73384861.mp3",
+      "bytes": 178028,
+      "durationSeconds": 22.16,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "5a0be3299a7c4bf8be6ed1369c2e107b65845a52bdbe235f42e715b234918040": {
+      "text": "읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/5a0be3299a7c4bf8be6ed1369c2e107b65845a52bdbe235f42e715b234918040.mp3",
+      "bytes": 21740,
+      "durationSeconds": 2.64,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "5a506a1a8fffd7a4b29c48649c10a5b4c12b4527ebedce3e3851ab2b1d424e45": {
+      "text": "선택한 공식 영상. DaHye - Bad Blood Simply K-Pop 공식 채널. ARIRANG K-POP 공개일. 2020-11-27 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를",
+      "src": "./voice-clips/5a506a1a8fffd7a4b29c48649c10a5b4c12b4527ebedce3e3851ab2b1d424e45.mp3",
+      "bytes": 160748,
+      "durationSeconds": 20,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "5f73c222f02e47586729c52d73dbb08a75ab3b3d9b89450fa81c3f3cc93829e6": {
+      "text": "선택한 공식 영상. BESTie - I Need You, Show Champion 20140903 공식 채널. MBCkpop 공개일. 2014-09-11 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접",
+      "src": "./voice-clips/5f73c222f02e47586729c52d73dbb08a75ab3b3d9b89450fa81c3f3cc93829e6.mp3",
+      "bytes": 167084,
+      "durationSeconds": 20.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "63e6a38d4584736bd4ab1f1a78f43165a48d435ef0eaf248095298e7a06e717c": {
+      "text": "선택한 공식 영상. Dahye - Lemon Cherry Bomb Music Bank 공식 채널. KBS WORLD TV 공개일. 2025-09-12 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브",
+      "src": "./voice-clips/63e6a38d4584736bd4ab1f1a78f43165a48d435ef0eaf248095298e7a06e717c.mp3",
+      "bytes": 144620,
+      "durationSeconds": 18,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "6d28bf5a26d9f4dfc4d2954fdfd48fa2d9917cccab971c1e6d1b5f1591c8a119": {
+      "text": "선택한 공식 영상. RACE 다혜 뮤직뱅크 공식 채널. KBS Kpop 공개일. 2025-09-19 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와",
+      "src": "./voice-clips/6d28bf5a26d9f4dfc4d2954fdfd48fa2d9917cccab971c1e6d1b5f1591c8a119.mp3",
+      "bytes": 167084,
+      "durationSeconds": 20.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "6d394d935c54d5d45a3087240da7f24b16c7280819a14c848fa3ce662f6d1461": {
+      "text": "선택한 공식 영상. Love Options by BESTie of Mcountdown 2013.10.17 공식 채널. Mnet K-POP 공개일. 2013-10-17 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를",
+      "src": "./voice-clips/6d394d935c54d5d45a3087240da7f24b16c7280819a14c848fa3ce662f6d1461.mp3",
+      "bytes": 156908,
+      "durationSeconds": 19.52,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "6f09fa27831161505fb3e8734b5df9c557ff5e0c177dbc204bfc4934f0e4980c": {
+      "text": "감사의 말을 담은 영어 제목의 곡은?. THANK U VERY MUCH. 공식 MV의 제목 표기는 THANK U VERY MUCH예요.",
+      "src": "./voice-clips/6f09fa27831161505fb3e8734b5df9c557ff5e0c177dbc204bfc4934f0e4980c.mp3",
+      "bytes": 72428,
+      "durationSeconds": 8.96,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "6f43995d235bf51110d15c0de0e6660d256fb706090de0eb10777b1895a7dc3c": {
+      "text": "내가 찜한 노래와 사진 카드를 다시 찾아보는 보물함이에요. 개인 선택 목록은 읽지 않아요.",
+      "src": "./voice-clips/6f43995d235bf51110d15c0de0e6660d256fb706090de0eb10777b1895a7dc3c.mp3",
+      "bytes": 53804,
+      "durationSeconds": 6.64,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "730f1e8645a9d222d0db9051dcc1c9d1e0ef7f2caf8495a7b102279e9267d1a6": {
+      "text": "다혜의 춤 영상을 모았어요. 사용자 제공 영상은 무음으로 반복하고, 공식 영상은 유튜브에서 볼 수 있어요.",
+      "src": "./voice-clips/730f1e8645a9d222d0db9051dcc1c9d1e0ef7f2caf8495a7b102279e9267d1a6.mp3",
+      "bytes": 72428,
+      "durationSeconds": 8.96,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "731248a729d479de964042ac3133a9469fb7b1580d6537f055d57405dc8c1dd2": {
+      "text": "링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/731248a729d479de964042ac3133a9469fb7b1580d6537f055d57405dc8c1dd2.mp3",
+      "bytes": 56300,
+      "durationSeconds": 6.96,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "737e0cc1ac41451f4433b1bfbabcc4ed2f967aec16858b4caa95f6bec8630a6a": {
+      "text": "베스티의 데뷔곡은? 보기. 두근두근. Excuse Me. 니가 필요해",
+      "src": "./voice-clips/737e0cc1ac41451f4433b1bfbabcc4ed2f967aec16858b4caa95f6bec8630a6a.mp3",
+      "bytes": 43628,
+      "durationSeconds": 5.36,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "73c2b834932d7701e5a0fc5564f418a744f2946d5b15bbe72a72ad88fcf8e6d3": {
+      "text": "선택한 공식 영상. 다혜 - Poison MBC 음악중심 공식 채널. MBCkpop 공개일. 2020-10-10 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습",
+      "src": "./voice-clips/73c2b834932d7701e5a0fc5564f418a744f2946d5b15bbe72a72ad88fcf8e6d3.mp3",
+      "bytes": 167084,
+      "durationSeconds": 20.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "73d8e62f6586fa9323c86a83cafe87d701bf492a8a9c022113f2833d1e6edc8d": {
+      "text": "최근 역주행으로 재조명된 노래는? 보기. 연애의 조건. 두근두근. Hot Baby",
+      "src": "./voice-clips/73d8e62f6586fa9323c86a83cafe87d701bf492a8a9c022113f2833d1e6edc8d.mp3",
+      "bytes": 62060,
+      "durationSeconds": 7.68,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "7c3bb18dee0c50bb45c4fe5a87b3b410af73d0f29b4dac2e54b0d74c14cd3bf0": {
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Hot Baby(핫 베이비) 공식 채널. 1theK (원더케이) 공개일. 2014-07-28 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나",
+      "src": "./voice-clips/7c3bb18dee0c50bb45c4fe5a87b3b410af73d0f29b4dac2e54b0d74c14cd3bf0.mp3",
+      "bytes": 169580,
+      "durationSeconds": 21.12,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "82d4450c39a5e37c673d4184c215ed41a21e9d6fec5cd8b615ccafea77ef1019": {
+      "text": "베스티의 데뷔곡은?. 두근두근. 두근두근 공식 MV는 2013년 7월 12일 공개됐어요.",
+      "src": "./voice-clips/82d4450c39a5e37c673d4184c215ed41a21e9d6fec5cd8b615ccafea77ef1019.mp3",
+      "bytes": 60140,
+      "durationSeconds": 7.44,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "83d279cc4926dbbd3de0a94f4753d1c76c524b7721c0498ca1fef4ada79a5aed": {
+      "text": "연애의 조건의 영어 제목은? 보기. Love Options. Love Emotion. Love Story",
+      "src": "./voice-clips/83d279cc4926dbbd3de0a94f4753d1c76c524b7721c0498ca1fef4ada79a5aed.mp3",
+      "bytes": 54380,
+      "durationSeconds": 6.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "8bc4733924d28519e084c576f8f6bb37a3b64b2c89fe336316d47b340be04b45": {
+      "text": "음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/8bc4733924d28519e084c576f8f6bb37a3b64b2c89fe336316d47b340be04b45.mp3",
+      "bytes": 17324,
+      "durationSeconds": 2.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "95330583a56cd03d229bc68696864d2344f3661d7ccaa8df9aa4168794ed4d7d": {
+      "text": "선택한 공식 영상. 다혜 - 이별은 처음이라서 Visualizer 공식 채널. 다혜가다했다DAHYE 공개일. 2024-06-28 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나",
+      "src": "./voice-clips/95330583a56cd03d229bc68696864d2344f3661d7ccaa8df9aa4168794ed4d7d.mp3",
+      "bytes": 193388,
+      "durationSeconds": 24.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "9535e30c1323f0743b5d68e7cbb02ae059724e03b17df8341e92ab5c0cd38f35": {
+      "text": "노래 화면이에요. 원하는 공식 영상을 골라 재생하거나 조금 느리게 연습해요. 직접 넣은 가사와 연습 메모는 읽거나 외부 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/9535e30c1323f0743b5d68e7cbb02ae059724e03b17df8341e92ab5c0cd38f35.mp3",
+      "bytes": 95468,
+      "durationSeconds": 11.84,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "98bcd9fb4a02e7040f52c936d68ed12ba3ffe45fa58663bf6dae4ac357b297ea": {
+      "text": "선택한 공식 영상. 다혜 나쁜 피 Dance Practice 공식 채널. 월스TV 공개일. 2020-11-17 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습",
+      "src": "./voice-clips/98bcd9fb4a02e7040f52c936d68ed12ba3ffe45fa58663bf6dae4ac357b297ea.mp3",
+      "bytes": 163244,
+      "durationSeconds": 20.32,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "99198cec069cafa33e17af2146e03009ef132711f538f98b088a98c6252d43e3": {
+      "text": "메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/99198cec069cafa33e17af2146e03009ef132711f538f98b088a98c6252d43e3.mp3",
+      "bytes": 39020,
+      "durationSeconds": 4.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "9f54913b652f34d2d8122f039a9eb8b1d5cc65001f5fff2085d7256a3f642658": {
+      "text": "더보기 화면이에요. 다정한 동행, 건강 상식, 업데이트와 오프라인 상태, 공개 질문과 답, 일기, 설정과 설치 안내가 있어요. 개인 기록은 안내 읽기에서 제외해요.",
+      "src": "./voice-clips/9f54913b652f34d2d8122f039a9eb8b1d5cc65001f5fff2085d7256a3f642658.mp3",
+      "bytes": 96620,
+      "durationSeconds": 12,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "a1172f0f89b2c64572115e8de859169e2e0d5393d8a740ec79f79d872b2b5c39": {
+      "text": "최근 역주행으로 재조명된 노래는?. 연애의 조건. 2026년 역주행 및 완전체 음악방송 출연이 보도됐어요.",
+      "src": "./voice-clips/a1172f0f89b2c64572115e8de859169e2e0d5393d8a740ec79f79d872b2b5c39.mp3",
+      "bytes": 65324,
+      "durationSeconds": 8.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "a47b22c09eab75c823fbe08c01e4b44c58b952014622e4e9b5c665a5ae4b977a": {
+      "text": "선택한 공식 영상. 다혜 나쁜 피 Choreography ver. 공식 채널. 월스TV 공개일. 2020-11-06 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사,",
+      "src": "./voice-clips/a47b22c09eab75c823fbe08c01e4b44c58b952014622e4e9b5c665a5ae4b977a.mp3",
+      "bytes": 170348,
+      "durationSeconds": 21.2,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "a4d1406ea0582105e1cb3ec5a18d17f19699c74c62481e2a08c3b4797b2319ad": {
+      "text": "니가 필요해의 영어 제목은?. I Need You. MBCkpop 무대 제목에서 I Need You를 확인해요.",
+      "src": "./voice-clips/a4d1406ea0582105e1cb3ec5a18d17f19699c74c62481e2a08c3b4797b2319ad.mp3",
+      "bytes": 57068,
+      "durationSeconds": 7.04,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "a5256bf61461dcdea46ff0b7c96005b9da7d49f8e6dfe95fa64e63a32bf4addd": {
+      "text": "이 앱에서 노래 원음은 어디서 들을까요?. 공식 YouTube 영상. 앱은 음원 파일을 배포하지 않고 공식 영상으로 연결해요.",
+      "src": "./voice-clips/a5256bf61461dcdea46ff0b7c96005b9da7d49f8e6dfe95fa64e63a32bf4addd.mp3",
+      "bytes": 67820,
+      "durationSeconds": 8.4,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "aab9ee48fd0962fe83b2d11f33a588112c9af06359283908efeb7c6497081cf6": {
+      "text": "선택한 공식 영상. 다혜DAHYE - RACE MV 공식 채널. 다혜가다했다DAHYE 공개일. 2025-08-30 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에",
+      "src": "./voice-clips/aab9ee48fd0962fe83b2d11f33a588112c9af06359283908efeb7c6497081cf6.mp3",
+      "bytes": 183020,
+      "durationSeconds": 22.8,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "abd6f112ce312f5dfeee94b3074de85bf4f87ff53eaafa929af7e0f0beb7c765": {
+      "text": "선택한 공식 영상. 다독이들과 함께하는 10만 Q&A 공식 채널. 다혜가다했다DAHYE 공개일. 2024-10-07 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성",
+      "src": "./voice-clips/abd6f112ce312f5dfeee94b3074de85bf4f87ff53eaafa929af7e0f0beb7c765.mp3",
+      "bytes": 178604,
+      "durationSeconds": 22.24,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "b3b54eed10f38f04781661936c3ab5b6f9c595575626ced46d59a614dfaae4e0": {
+      "text": "베스티의 네 멤버는? 보기. 혜연·유지·다혜·해령. 혜연·유지·다혜. 혜연·해령",
+      "src": "./voice-clips/b3b54eed10f38f04781661936c3ab5b6f9c595575626ced46d59a614dfaae4e0.mp3",
+      "bytes": 55724,
+      "durationSeconds": 6.88,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "b3c5d87906889389b3419e54ad9cf00e12c283a7c38830d34623ada6c145ec71": {
+      "text": "선택한 공식 영상. 외동딸이 간만에 본가에 가면 생기는일 공식 채널. 다혜가다했다DAHYE 공개일. 2025-05-17 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성",
+      "src": "./voice-clips/b3c5d87906889389b3419e54ad9cf00e12c283a7c38830d34623ada6c145ec71.mp3",
+      "bytes": 181100,
+      "durationSeconds": 22.56,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "b4d931bf6f794b2bf29f78724362e3ed4377d551c8cee5b4d3475f031bf5aa74": {
+      "text": "오늘의 팬 놀이터예요. 현재 시간대의 AI 인사 듣기는 직접 눌러 시작해요. 함께 걷기, 앉아서 스트레칭, 건강 길잡이, 노래와 퀴즈, 사진 놀이를 고를 수 있어요. 실제 베스티의 녹음이나 발언이 아닌 합성 안내예요.",
+      "src": "./voice-clips/b4d931bf6f794b2bf29f78724362e3ed4377d551c8cee5b4d3475f031bf5aa74.mp3",
+      "bytes": 117164,
+      "durationSeconds": 14.56,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "b760ea75aa1a71aaf77364b550b8da8cf2af7dbe324d8c3e736dadf055abee3f": {
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Pitapat(두근두근) 공식 채널. 1theK (원더케이) 공개일. 2013-07-12 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성",
+      "src": "./voice-clips/b760ea75aa1a71aaf77364b550b8da8cf2af7dbe324d8c3e736dadf055abee3f.mp3",
+      "bytes": 192620,
+      "durationSeconds": 24,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "b7f75f7e515a3370350e922d6230d75228058aaf59bd7091a729888ad58dbf6c": {
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Love Options(연애의 조건) 공식 채널. 1theK (원더케이) 공개일. 2013-10-17 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은",
+      "src": "./voice-clips/b7f75f7e515a3370350e922d6230d75228058aaf59bd7091a729888ad58dbf6c.mp3",
+      "bytes": 177260,
+      "durationSeconds": 22.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "bb279ae5116586d83062cdaf5284bfe932a0a942f0bd00dd3c9a3c888f126dfb": {
+      "text": "선택한 공식 영상. Super Love - Tinashe (다혜 Dance cover) 공식 채널. 다혜가다했다DAHYE 공개일. 2018-04-22 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브",
+      "src": "./voice-clips/bb279ae5116586d83062cdaf5284bfe932a0a942f0bd00dd3c9a3c888f126dfb.mp3",
+      "bytes": 182444,
+      "durationSeconds": 22.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "bf10634194f88b70a2e6d65b753c72d606ca03dbbff11da0e371bdb0eed25e00": {
+      "text": "보내지 않아요.",
+      "src": "./voice-clips/bf10634194f88b70a2e6d65b753c72d606ca03dbbff11da0e371bdb0eed25e00.mp3",
+      "bytes": 11564,
+      "durationSeconds": 1.36,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "c0e2331f9110e0523538f10bd017e573db3994d9baabe022cbf504b15403d372": {
+      "text": "연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/c0e2331f9110e0523538f10bd017e573db3994d9baabe022cbf504b15403d372.mp3",
+      "bytes": 38444,
+      "durationSeconds": 4.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "c40e88de9b6eca7c6082fc521c60f0c39745e896e4b814ea281462de8eab04dd": {
+      "text": "선택한 공식 영상. 다혜 (DaHye) 포이즌 M/V Making Film 공식 채널. 월스TV 공개일. 2020-10-15 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나",
+      "src": "./voice-clips/c40e88de9b6eca7c6082fc521c60f0c39745e896e4b814ea281462de8eab04dd.mp3",
+      "bytes": 166508,
+      "durationSeconds": 20.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "cb139f4f258fd1a690ed378cb58f3b5cbd35d908b3aa716c06c18a3e4e7e6173": {
+      "text": "같은 사진 두 장을 찾아 눌러요. 천천히 기억하며 즐겨 보세요.",
+      "src": "./voice-clips/cb139f4f258fd1a690ed378cb58f3b5cbd35d908b3aa716c06c18a3e4e7e6173.mp3",
+      "bytes": 44204,
+      "durationSeconds": 5.44,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "d2cb5e3a633647bab3966c06d396c1b80e7917102ae2fec9dcd7a180b265e073": {
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Excuse Me 공식 채널. 1theK (원더케이) 공개일. 2015-05-08 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성",
+      "src": "./voice-clips/d2cb5e3a633647bab3966c06d396c1b80e7917102ae2fec9dcd7a180b265e073.mp3",
+      "bytes": 160748,
+      "durationSeconds": 20,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "d3b885590d7c8555fc100b641c55e5f88a40d847b75fabea6fbdedb8b10effc6": {
+      "text": "두근두근의 영어 제목은?. Pitapat. 공식 뮤직비디오 제목에서 Pitapat으로 확인해요.",
+      "src": "./voice-clips/d3b885590d7c8555fc100b641c55e5f88a40d847b75fabea6fbdedb8b10effc6.mp3",
+      "bytes": 51308,
+      "durationSeconds": 6.32,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "d71e347f2083abe70e5a57c060707a6a3a29eca57fb0f6f58669dabc8a665ee3": {
+      "text": "니가 필요해의 영어 제목은? 보기. I Need You. I Love You. I Miss You",
+      "src": "./voice-clips/d71e347f2083abe70e5a57c060707a6a3a29eca57fb0f6f58669dabc8a665ee3.mp3",
+      "bytes": 58220,
+      "durationSeconds": 7.2,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "d8c67ed0354689cc0386c881e7e31ae36247b8db68bc6e3760a112cc21d0310b": {
+      "text": "2015년 공개된 베스티 MV는? 보기. Excuse Me. 두근두근. 연애의 조건",
+      "src": "./voice-clips/d8c67ed0354689cc0386c881e7e31ae36247b8db68bc6e3760a112cc21d0310b.mp3",
+      "bytes": 54380,
+      "durationSeconds": 6.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "dcb76af009ea29ab8ec4cb70718f97a7dfa49f31c3d5bad6af5cb500c98178af": {
+      "text": "직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/dcb76af009ea29ab8ec4cb70718f97a7dfa49f31c3d5bad6af5cb500c98178af.mp3",
+      "bytes": 49388,
+      "durationSeconds": 6.08,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "e27f9553ad3d3a97d465651d514bf49cbcd23164f87d476ba0b0ed3111028cb6": {
+      "text": "선택한 공식 영상. 당일에 떠난 대만여행 v-log 공식 채널. 다혜가다했다DAHYE 공개일. 2025-03-19 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에",
+      "src": "./voice-clips/e27f9553ad3d3a97d465651d514bf49cbcd23164f87d476ba0b0ed3111028cb6.mp3",
+      "bytes": 201068,
+      "durationSeconds": 25.04,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "e4de1c070bc82b1a368dd09be986e2b9958c445f46133eb7091727b95b786857": {
+      "text": "Hot Baby 공식 MV가 공개된 해는?. 2014년. 1theK의 Hot Baby MV는 2014년 7월 28일 공개됐어요.",
+      "src": "./voice-clips/e4de1c070bc82b1a368dd09be986e2b9958c445f46133eb7091727b95b786857.mp3",
+      "bytes": 74348,
+      "durationSeconds": 9.2,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "e6e7f3c27a3c018003cb85b8a5b6454f445565d6fb645bb37b97a2426c001bd3": {
+      "text": "선택한 공식 영상. BESTie - Love Options | Show! MusicCore | MBC261031방송 공식 채널. MBCkpop 공개일. 2026-10-31 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를",
+      "src": "./voice-clips/e6e7f3c27a3c018003cb85b8a5b6454f445565d6fb645bb37b97a2426c001bd3.mp3",
+      "bytes": 165740,
+      "durationSeconds": 20.64,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "eb53f0e6bb098fbfead355448ab10ab707618882ae047e8b80e6ca04de44c107": {
+      "text": "서비스에 보내지 않아요.",
+      "src": "./voice-clips/eb53f0e6bb098fbfead355448ab10ab707618882ae047e8b80e6ca04de44c107.mp3",
+      "bytes": 15404,
+      "durationSeconds": 1.84,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "eb7f693da3645f3dc4f82bec44eda89f68635a63cbd26b7926f0885f315dbdc8": {
+      "text": "이 앱에서 노래 원음은 어디서 들을까요? 보기. 공식 YouTube 영상. 앱에 포함된 MP3. 멤버와 실시간 통화",
+      "src": "./voice-clips/eb7f693da3645f3dc4f82bec44eda89f68635a63cbd26b7926f0885f315dbdc8.mp3",
+      "bytes": 76844,
+      "durationSeconds": 9.52,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "f1a86e53929e643fbdaa19debdc1de9d0e40e716bd4c283021550c53841142be": {
+      "text": "큰 글씨로 응원을 띄우는 화면이에요. 깜빡임은 없어요.",
+      "src": "./voice-clips/f1a86e53929e643fbdaa19debdc1de9d0e40e716bd4c283021550c53841142be.mp3",
+      "bytes": 38444,
+      "durationSeconds": 4.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "f22ba0069b6d9e1a0a6d922f9cc279aa54ddf87fe67134853bfa097fc78eb4ac": {
+      "text": "선택한 공식 영상. 26년도 생일 브이로그 공식 채널. 다혜가다했다DAHYE 공개일. 2026-07-27 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지",
+      "src": "./voice-clips/f22ba0069b6d9e1a0a6d922f9cc279aa54ddf87fe67134853bfa097fc78eb4ac.mp3",
+      "bytes": 192044,
+      "durationSeconds": 23.92,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "f6a26cfc17c1687d3a3f4aa95adef6d16c4b8e697b823f2543fa232799f03ffb": {
+      "text": "2015년 공개된 베스티 MV는?. Excuse Me. Excuse Me 공식 MV는 2015년 5월 8일 공개됐어요.",
+      "src": "./voice-clips/f6a26cfc17c1687d3a3f4aa95adef6d16c4b8e697b823f2543fa232799f03ffb.mp3",
+      "bytes": 69740,
+      "durationSeconds": 8.64,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "f74cc774009486b8514a4642dcf562aafb3c5672723e1098d1ba38e18eb17fe8": {
+      "text": "녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/f74cc774009486b8514a4642dcf562aafb3c5672723e1098d1ba38e18eb17fe8.mp3",
+      "bytes": 30188,
+      "durationSeconds": 3.68,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "f904279e7e9163a3575a5f06eb7eb7aae840c80b5f1cdc2acdb9a929b02862c3": {
+      "text": "Hot Baby 공식 MV가 공개된 해는? 보기. 2014년. 2013년. 2015년",
+      "src": "./voice-clips/f904279e7e9163a3575a5f06eb7eb7aae840c80b5f1cdc2acdb9a929b02862c3.mp3",
+      "bytes": 70508,
+      "durationSeconds": 8.72,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "f964fe7a5d5de21445f57d0b84460bf26146ee9c7b22f9c6bea46fe6b450a7c0": {
+      "text": "놀이 화면이에요. 베스티 퀴즈, 사진 짝맞추기, 노래 제목 맞추기, 좋아하는 곡 고르기와 행복 빙고가 있어요. 시간 제한은 없어요. 틀려도 괜찮아요.",
+      "src": "./voice-clips/f964fe7a5d5de21445f57d0b84460bf26146ee9c7b22f9c6bea46fe6b450a7c0.mp3",
+      "bytes": 88940,
+      "durationSeconds": 11.04,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "fc700dac4a2c78be317fd96a489bd48afec7aedb346b9e74bf0383881dbfdd13": {
+      "text": "선택한 공식 영상. 다혜 (DaHye) - Poison M/V 공식 채널. STONE MUSIC 공개일. 2020-10-10 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나",
+      "src": "./voice-clips/fc700dac4a2c78be317fd96a489bd48afec7aedb346b9e74bf0383881dbfdd13.mp3",
+      "bytes": 158828,
+      "durationSeconds": 19.76,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "fc8b536ff57aec59b978463946cbb13325af88816399ef52cfa3bd91387ff2be": {
+      "text": "가족이 관리하는 일정 주소나 파일을 연결할 수 있어요. 개인 일정과 입력한 주소는 읽지 않아요.",
+      "src": "./voice-clips/fc8b536ff57aec59b978463946cbb13325af88816399ef52cfa3bd91387ff2be.mp3",
+      "bytes": 63980,
+      "durationSeconds": 7.92,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    },
+    "ff264339ac40ec74be9c8d103203d1eae7cbfbc64ee7a3e20ba0241b2ed2d5ee": {
+      "text": "넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "src": "./voice-clips/ff264339ac40ec74be9c8d103203d1eae7cbfbc64ee7a3e20ba0241b2ed2d5ee.mp3",
+      "bytes": 51884,
+      "durationSeconds": 6.4,
+      "codec": "mp3",
+      "sampleRate": 24000,
+      "channels": 1
+    }
+  },
+  "entries": [
+    {
+      "id": "day",
+      "text": "다혜와 베스티를 응원하는 팬 놀이터에 온 걸 환영해요.",
+      "chunks": [
+        "2e13adb39fc6916d200c18289d7ba08ad5d2c354c0d6289b234af752913d053e"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "call-sangik",
+      "text": "상익아.",
+      "chunks": [
+        "3678b1dd5f3f04e0cc81c19322a78fe2defed9b5c71b7ddddcbc21fbd4b75db2"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-home",
+      "text": "오늘의 팬 놀이터예요. 현재 시간대의 AI 인사 듣기는 직접 눌러 시작해요. 함께 걷기, 앉아서 스트레칭, 건강 길잡이, 노래와 퀴즈, 사진 놀이를 고를 수 있어요. 실제 베스티의 녹음이나 발언이 아닌 합성 안내예요.",
+      "chunks": [
+        "b4d931bf6f794b2bf29f78724362e3ed4377d551c8cee5b4d3475f031bf5aa74"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-songs",
+      "text": "노래 화면이에요. 원하는 공식 영상을 골라 재생하거나 조금 느리게 연습해요. 직접 넣은 가사와 연습 메모는 읽거나 외부 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "9535e30c1323f0743b5d68e7cbb02ae059724e03b17df8341e92ab5c0cd38f35"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-games",
+      "text": "놀이 화면이에요. 베스티 퀴즈, 사진 짝맞추기, 노래 제목 맞추기, 좋아하는 곡 고르기와 행복 빙고가 있어요. 시간 제한은 없어요. 틀려도 괜찮아요.",
+      "chunks": [
+        "f964fe7a5d5de21445f57d0b84460bf26146ee9c7b22f9c6bea46fe6b450a7c0"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-dance",
+      "text": "다혜의 춤 영상을 모았어요. 사용자 제공 영상은 무음으로 반복하고, 공식 영상은 유튜브에서 볼 수 있어요.",
+      "chunks": [
+        "730f1e8645a9d222d0db9051dcc1c9d1e0ef7f2caf8495a7b102279e9267d1a6"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-photos",
+      "text": "사진첩이에요. 공식 영상 표지 카드를 눌러 크게 볼 수 있어요. 마음에 드는 카드는 보물함에 담아 보세요.",
+      "chunks": [
+        "5059765dac4c44aebc4cb6b752b7c5a811f0b9538a342f401395188201ecf9cd"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-calendar",
+      "text": "달력이에요. 날짜를 골라 일정을 확인하거나 직접 적을 수 있어요. 개인 일정의 제목, 이름과 내용은 음성으로 읽지 않아요.",
+      "chunks": [
+        "4b95528df0a182d42c13d36224d5efdc96665bf7ed4a77b34aa763a57552c887"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "route-more",
+      "text": "더보기 화면이에요. 다정한 동행, 건강 상식, 업데이트와 오프라인 상태, 공개 질문과 답, 일기, 설정과 설치 안내가 있어요. 개인 기록은 안내 읽기에서 제외해요.",
+      "chunks": [
+        "9f54913b652f34d2d8122f039a9eb8b1d5cc65001f5fff2085d7256a3f642658"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "companion",
+      "text": "상익님을 위한 팬메이드 동행 도우미예요. 앱이 작성한 안내이며, 실제 베스티의 녹음이나 대화가 아니에요. 오늘도 천천히 쉬어가요. 대화 내용과 개인 일정, 할 일은 읽거나 외부로 보내지 않아요.",
+      "chunks": [
+        "179397283b787db51cc914a2c8736d5ffacc30c1bdcc4ce17d1797c8cb66123c"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-settings",
+      "text": "상익님 전용 설정이에요. 글자를 크고 진하게 바꿀 수 있어요. 개인 기록은 읽지 않아요.",
+      "chunks": [
+        "068b66bf6158bc3fec2714ba45b7b4b67b8d929192c460f2a81f85fad6928de8"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-journal",
+      "text": "나만 보는 일기와 편지예요. 기록은 이 기기에만 저장되며 읽거나 외부 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "0d91e2f9adde91d7b53a3afb5599d410bdaa3f40283c1226fd64a455eeab5808"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-calendar",
+      "text": "일정을 적는 화면이에요. 개인 일정과 이름은 읽지 않아요.",
+      "chunks": [
+        "1d5beaff6852d47c38265cae99f975efa1bc643e24a77082e70805249a2c13c7"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-feed",
+      "text": "가족이 관리하는 일정 주소나 파일을 연결할 수 있어요. 개인 일정과 입력한 주소는 읽지 않아요.",
+      "chunks": [
+        "fc8b536ff57aec59b978463946cbb13325af88816399ef52cfa3bd91387ff2be"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-bingo",
+      "text": "오늘 해 본 작은 일을 눌러 표시해요. 다시 누르면 표시를 지울 수 있어요. 시간 제한은 없어요.",
+      "chunks": [
+        "0a8a661cb650aff743ed3b2d5e486314a1548d29b21a0f5a7e8660552f4471ae"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-memory",
+      "text": "같은 사진 두 장을 찾아 눌러요. 천천히 기억하며 즐겨 보세요.",
+      "chunks": [
+        "cb139f4f258fd1a690ed378cb58f3b5cbd35d908b3aa716c06c18a3e4e7e6173"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-cheer",
+      "text": "큰 글씨로 응원을 띄우는 화면이에요. 깜빡임은 없어요.",
+      "chunks": [
+        "f1a86e53929e643fbdaa19debdc1de9d0e40e716bd4c283021550c53841142be"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "general-treasure",
+      "text": "내가 찜한 노래와 사진 카드를 다시 찾아보는 보물함이에요. 개인 선택 목록은 읽지 않아요.",
+      "chunks": [
+        "6f43995d235bf51110d15c0de0e6660d256fb706090de0eb10777b1895a7dc3c"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q0",
+      "text": "베스티의 영어 이름은?. BESTie. 공식 뮤직비디오 제목에서 BESTie로 표기해요.",
+      "chunks": [
+        "4c5641f6cd85d7b3040750e0f2d65a1640b29eea77c17ad184bfeac4fbf67c1a"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q0",
+      "text": "베스티의 영어 이름은? 보기. BESTie. BESTY. BEAST",
+      "chunks": [
+        "25064af9eaa608c84bfd1a72d8bab77f5bce4e532c1557e90b2262cde4357803"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q1",
+      "text": "베스티의 네 멤버는?. 혜연·유지·다혜·해령. Excuse Me 공식 MV 설명에 네 멤버가 소개돼요.",
+      "chunks": [
+        "0a9c64894224041cd03b0f8fd9e84e0ecfc78581b44e36d68c97d81c58d4f548"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q1",
+      "text": "베스티의 네 멤버는? 보기. 혜연·유지·다혜·해령. 혜연·유지·다혜. 혜연·해령",
+      "chunks": [
+        "b3b54eed10f38f04781661936c3ab5b6f9c595575626ced46d59a614dfaae4e0"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q2",
+      "text": "최근 역주행으로 재조명된 노래는?. 연애의 조건. 2026년 역주행 및 완전체 음악방송 출연이 보도됐어요.",
+      "chunks": [
+        "a1172f0f89b2c64572115e8de859169e2e0d5393d8a740ec79f79d872b2b5c39"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q2",
+      "text": "최근 역주행으로 재조명된 노래는? 보기. 연애의 조건. 두근두근. Hot Baby",
+      "chunks": [
+        "73d8e62f6586fa9323c86a83cafe87d701bf492a8a9c022113f2833d1e6edc8d"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q3",
+      "text": "연애의 조건의 영어 제목은?. Love Options. 공식 MV 제목은 Love Options(연애의 조건)이에요.",
+      "chunks": [
+        "032d1b93e8598f8a459d27231c2c2dbf40b88bb3195850c466522161603727c8"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q3",
+      "text": "연애의 조건의 영어 제목은? 보기. Love Options. Love Emotion. Love Story",
+      "chunks": [
+        "83d279cc4926dbbd3de0a94f4753d1c76c524b7721c0498ca1fef4ada79a5aed"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q4",
+      "text": "베스티의 데뷔곡은?. 두근두근. 두근두근 공식 MV는 2013년 7월 12일 공개됐어요.",
+      "chunks": [
+        "82d4450c39a5e37c673d4184c215ed41a21e9d6fec5cd8b615ccafea77ef1019"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q4",
+      "text": "베스티의 데뷔곡은? 보기. 두근두근. Excuse Me. 니가 필요해",
+      "chunks": [
+        "737e0cc1ac41451f4433b1bfbabcc4ed2f967aec16858b4caa95f6bec8630a6a"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q5",
+      "text": "두근두근의 영어 제목은?. Pitapat. 공식 뮤직비디오 제목에서 Pitapat으로 확인해요.",
+      "chunks": [
+        "d3b885590d7c8555fc100b641c55e5f88a40d847b75fabea6fbdedb8b10effc6"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q5",
+      "text": "두근두근의 영어 제목은? 보기. Pitapat. Heartbeat. Hot Baby",
+      "chunks": [
+        "0e66ade226b997bfef97f74ad26ff8dcd85dab23be15e647917a6c5a232a18b0"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q6",
+      "text": "2015년 공개된 베스티 MV는?. Excuse Me. Excuse Me 공식 MV는 2015년 5월 8일 공개됐어요.",
+      "chunks": [
+        "f6a26cfc17c1687d3a3f4aa95adef6d16c4b8e697b823f2543fa232799f03ffb"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q6",
+      "text": "2015년 공개된 베스티 MV는? 보기. Excuse Me. 두근두근. 연애의 조건",
+      "chunks": [
+        "d8c67ed0354689cc0386c881e7e31ae36247b8db68bc6e3760a112cc21d0310b"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q7",
+      "text": "Hot Baby 공식 MV가 공개된 해는?. 2014년. 1theK의 Hot Baby MV는 2014년 7월 28일 공개됐어요.",
+      "chunks": [
+        "e4de1c070bc82b1a368dd09be986e2b9958c445f46133eb7091727b95b786857"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q7",
+      "text": "Hot Baby 공식 MV가 공개된 해는? 보기. 2014년. 2013년. 2015년",
+      "chunks": [
+        "f904279e7e9163a3575a5f06eb7eb7aae840c80b5f1cdc2acdb9a929b02862c3"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q8",
+      "text": "감사의 말을 담은 영어 제목의 곡은?. THANK U VERY MUCH. 공식 MV의 제목 표기는 THANK U VERY MUCH예요.",
+      "chunks": [
+        "6f09fa27831161505fb3e8734b5df9c557ff5e0c177dbc204bfc4934f0e4980c"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q8",
+      "text": "감사의 말을 담은 영어 제목의 곡은? 보기. THANK U VERY MUCH. Excuse Me. Love Options",
+      "chunks": [
+        "55a942712ffa9a6b92d1ba4ad896343a1b5de93aefeb0f5e3981d558c11d7fad"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q9",
+      "text": "니가 필요해의 영어 제목은?. I Need You. MBCkpop 무대 제목에서 I Need You를 확인해요.",
+      "chunks": [
+        "a4d1406ea0582105e1cb3ec5a18d17f19699c74c62481e2a08c3b4797b2319ad"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q9",
+      "text": "니가 필요해의 영어 제목은? 보기. I Need You. I Love You. I Miss You",
+      "chunks": [
+        "d71e347f2083abe70e5a57c060707a6a3a29eca57fb0f6f58669dabc8a665ee3"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q10",
+      "text": "2013년 연애의 조건 무대가 연결된 방송은?. 엠카운트다운. Mnet K-POP에 2013년 10월 17일 엠카운트다운 무대가 공개됐어요.",
+      "chunks": [
+        "0d4e519724e99850bf405c9574d15fbadf3f7b9b6dbf0153c63c8539c2693451"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q10",
+      "text": "2013년 연애의 조건 무대가 연결된 방송은? 보기. 엠카운트다운. 인기가요. 뮤직뱅크",
+      "chunks": [
+        "4883261fac55634b47ebdf4f689e2751ce87d369bef2244dc226a5204cf69ede"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "qa-q11",
+      "text": "이 앱에서 노래 원음은 어디서 들을까요?. 공식 YouTube 영상. 앱은 음원 파일을 배포하지 않고 공식 영상으로 연결해요.",
+      "chunks": [
+        "a5256bf61461dcdea46ff0b7c96005b9da7d49f8e6dfe95fa64e63a32bf4addd"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "quiz-q11",
+      "text": "이 앱에서 노래 원음은 어디서 들을까요? 보기. 공식 YouTube 영상. 앱에 포함된 MP3. 멤버와 실시간 통화",
+      "chunks": [
+        "eb7f693da3645f3dc4f82bec44eda89f68635a63cbd26b7926f0885f315dbdc8"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-Q6u1DSpmF0g",
+      "text": "선택한 공식 영상. DaHye, Poison [THE SHOW 201013] 공식 채널. THE K-POP 공개일. 2020-10-13 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "33cdf717dc9627229721e0d37ef8408f303cd1370f79dc595203bcb1193f8f85",
+        "5a0be3299a7c4bf8be6ed1369c2e107b65845a52bdbe235f42e715b234918040"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-HpR9yE21nbY",
+      "text": "선택한 공식 영상. 다혜 (DaHye) 포이즌 M/V Making Film 공식 채널. 월스TV 공개일. 2020-10-15 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "c40e88de9b6eca7c6082fc521c60f0c39745e896e4b814ea281462de8eab04dd",
+        "8bc4733924d28519e084c576f8f6bb37a3b64b2c89fe336316d47b340be04b45"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-hR2Tc3qYdzc",
+      "text": "선택한 공식 영상. 다독이들과 함께하는 10만 Q&A 공식 채널. 다혜가다했다DAHYE 공개일. 2024-10-07 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "abd6f112ce312f5dfeee94b3074de85bf4f87ff53eaafa929af7e0f0beb7c765",
+        "eb53f0e6bb098fbfead355448ab10ab707618882ae047e8b80e6ca04de44c107"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-ruD_eOOjL58",
+      "text": "선택한 공식 영상. 당일에 떠난 대만여행 v-log 공식 채널. 다혜가다했다DAHYE 공개일. 2025-03-19 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "e27f9553ad3d3a97d465651d514bf49cbcd23164f87d476ba0b0ed3111028cb6",
+        "bf10634194f88b70a2e6d65b753c72d606ca03dbbff11da0e371bdb0eed25e00"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-ON52RSgmZWQ",
+      "text": "선택한 공식 영상. 26년도 생일 브이로그 공식 채널. 다혜가다했다DAHYE 공개일. 2026-07-27 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "f22ba0069b6d9e1a0a6d922f9cc279aa54ddf87fe67134853bfa097fc78eb4ac",
+        "3bdb67724542f9773042bda3f67e614038310b327b539c374a352103faeaa922"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-Uweb3I9Z3sM",
+      "text": "선택한 공식 영상. 외동딸이 간만에 본가에 가면 생기는일 공식 채널. 다혜가다했다DAHYE 공개일. 2025-05-17 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "b3c5d87906889389b3419e54ad9cf00e12c283a7c38830d34623ada6c145ec71",
+        "eb53f0e6bb098fbfead355448ab10ab707618882ae047e8b80e6ca04de44c107"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-nMHX2LPcekw",
+      "text": "선택한 공식 영상. 제주도 1박2일 브이로그 공식 채널. 다혜가다했다DAHYE 공개일. 2026-06-28 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "05fc74d733d273bb45a0224746d2dbaede13acbfccabe3387747a884fbe8af03",
+        "3bdb67724542f9773042bda3f67e614038310b327b539c374a352103faeaa922"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-Z-pAsnR3lsM",
+      "text": "선택한 공식 영상. 베스티(BESTie) - 연애의 조건 안무영상 2026.ver 공식 채널. 다혜가다했다DAHYE 공개일. 2026-10-29 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "313b9d17b82c5a103a3b5a8a1811c503df4f4ea6b322382ea1dd0254d0a88146",
+        "99198cec069cafa33e17af2146e03009ef132711f538f98b088a98c6252d43e3"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-G5pjHc5ILB8",
+      "text": "선택한 공식 영상. 다혜 - 이별은 처음이라서 Visualizer 공식 채널. 다혜가다했다DAHYE 공개일. 2024-06-28 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "95330583a56cd03d229bc68696864d2344f3661d7ccaa8df9aa4168794ed4d7d",
+        "8bc4733924d28519e084c576f8f6bb37a3b64b2c89fe336316d47b340be04b45"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-w1ffz0t5rRE",
+      "text": "선택한 공식 영상. 다혜DAHYE - RACE MV 공식 채널. 다혜가다했다DAHYE 공개일. 2025-08-30 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "aab9ee48fd0962fe83b2d11f33a588112c9af06359283908efeb7c6497081cf6",
+        "bf10634194f88b70a2e6d65b753c72d606ca03dbbff11da0e371bdb0eed25e00"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-d8YSuVGvqmk",
+      "text": "선택한 공식 영상. 다혜 (DaHye) - 나쁜 피 (Bad Blood) M/V 공식 채널. STONE MUSIC 공개일. 2020-11-05 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "3d9aaafefbbfa692a85b86de5e7a87f6c9e08ca18a8f28eeb677ed008ff3893e",
+        "f74cc774009486b8514a4642dcf562aafb3c5672723e1098d1ba38e18eb17fe8"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-zTipERjTTmo",
+      "text": "선택한 공식 영상. 다혜 (DaHye) - Poison M/V 공식 채널. STONE MUSIC 공개일. 2020-10-10 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "fc700dac4a2c78be317fd96a489bd48afec7aedb346b9e74bf0383881dbfdd13",
+        "8bc4733924d28519e084c576f8f6bb37a3b64b2c89fe336316d47b340be04b45"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-fU0tybevRVs",
+      "text": "선택한 공식 영상. 베스티 첫 만남부터 음악방송까지ㅣ베스티 비하인드 브이로그 공식 채널. 다혜가다했다DAHYE 공개일. 2026-11-08 다혜 본인 채널·공식 유통사 또는 방송사 원본 영상이에요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "56b35cde067b3b05840e706c545ec73313c36466b86d62ad26763a8c73384861",
+        "f74cc774009486b8514a4642dcf562aafb3c5672723e1098d1ba38e18eb17fe8"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-NPqtL1dtrlA",
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Love Options(연애의 조건) 공식 채널. 1theK (원더케이) 공개일. 2013-10-17 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "b7f75f7e515a3370350e922d6230d75228058aaf59bd7091a729888ad58dbf6c",
+        "5a0be3299a7c4bf8be6ed1369c2e107b65845a52bdbe235f42e715b234918040"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-o6KvKuSviA0",
+      "text": "선택한 공식 영상. BESTie - Love Options | Show! MusicCore | MBC261031방송 공식 채널. MBCkpop 공개일. 2026-10-31 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "e6e7f3c27a3c018003cb85b8a5b6454f445565d6fb645bb37b97a2426c001bd3",
+        "39ed6e8fba149bf275328ac702d25b36f16df29d8dc8efda3e9710f1339e9616"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-ZTXoBPycEB0",
+      "text": "선택한 공식 영상. Love Options by BESTie of Mcountdown 2013.10.17 공식 채널. Mnet K-POP 공개일. 2013-10-17 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "6d394d935c54d5d45a3087240da7f24b16c7280819a14c848fa3ce662f6d1461",
+        "39ed6e8fba149bf275328ac702d25b36f16df29d8dc8efda3e9710f1339e9616"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-AuVi2ib-0qQ",
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Excuse Me 공식 채널. 1theK (원더케이) 공개일. 2015-05-08 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "d2cb5e3a633647bab3966c06d396c1b80e7917102ae2fec9dcd7a180b265e073",
+        "eb53f0e6bb098fbfead355448ab10ab707618882ae047e8b80e6ca04de44c107"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-mS0-Rw2mfco",
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Hot Baby(핫 베이비) 공식 채널. 1theK (원더케이) 공개일. 2014-07-28 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "7c3bb18dee0c50bb45c4fe5a87b3b410af73d0f29b4dac2e54b0d74c14cd3bf0",
+        "8bc4733924d28519e084c576f8f6bb37a3b64b2c89fe336316d47b340be04b45"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-8sat420G6Uc",
+      "text": "선택한 공식 영상. BESTie - I Need You, Show Champion 20140903 공식 채널. MBCkpop 공개일. 2014-09-11 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "5f73c222f02e47586729c52d73dbb08a75ab3b3d9b89450fa81c3f3cc93829e6",
+        "ff264339ac40ec74be9c8d103203d1eae7cbfbc64ee7a3e20ba0241b2ed2d5ee"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-gtyi5LQdfBE",
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ Pitapat(두근두근) 공식 채널. 1theK (원더케이) 공개일. 2013-07-12 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "b760ea75aa1a71aaf77364b550b8da8cf2af7dbe324d8c3e736dadf055abee3f",
+        "eb53f0e6bb098fbfead355448ab10ab707618882ae047e8b80e6ca04de44c107"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-BS3BYJYhEk4",
+      "text": "선택한 공식 영상. [MV] BESTie(베스티) _ THANK U VERY MUCH 공식 채널. 1theK (원더케이) 공개일. 2014-02-28 공식 음원 유통 채널의 뮤직비디오예요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "3665092fd45e8570bf26637608a719f78fa8ea598e28878a88ddc55343d8ded5",
+        "5a0be3299a7c4bf8be6ed1369c2e107b65845a52bdbe235f42e715b234918040"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-4PWRxR92meA",
+      "text": "선택한 공식 영상. BESTie - Excuse Me [Music Bank COMEBACK / 2015.05.08] 공식 채널. KBS WORLD TV 공개일. 2015-05-26 방송사 공식 무대예요. 영상 공개일은 실제 방송일과 다를 수 있어요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "4af96d7d8537282085db674f13f43d6cebd39b91cd7591aef9f15ee1487e7f50",
+        "731248a729d479de964042ac3133a9469fb7b1580d6537f055d57405dc8c1dd2"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-CeRmb0fZuxE",
+      "text": "선택한 공식 영상. Super Love - Tinashe (다혜 Dance cover) 공식 채널. 다혜가다했다DAHYE 공개일. 2018-04-22 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "bb279ae5116586d83062cdaf5284bfe932a0a942f0bd00dd3c9a3c888f126dfb",
+        "731248a729d479de964042ac3133a9469fb7b1580d6537f055d57405dc8c1dd2"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-szs1nvuWfkc",
+      "text": "선택한 공식 영상. 다혜 나쁜 피 Dance Practice 공식 채널. 월스TV 공개일. 2020-11-17 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "98bcd9fb4a02e7040f52c936d68ed12ba3ffe45fa58663bf6dae4ac357b297ea",
+        "99198cec069cafa33e17af2146e03009ef132711f538f98b088a98c6252d43e3"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-hChdavbVpeQ",
+      "text": "선택한 공식 영상. 다혜 나쁜 피 Choreography ver. 공식 채널. 월스TV 공개일. 2020-11-06 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "a47b22c09eab75c823fbe08c01e4b44c58b952014622e4e9b5c665a5ae4b977a",
+        "c0e2331f9110e0523538f10bd017e573db3994d9baabe022cbf504b15403d372"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song--nrROTgYZl8",
+      "text": "선택한 공식 영상. DaHye - Bad Blood Simply K-Pop 공식 채널. ARIRANG K-POP 공개일. 2020-11-27 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "5a506a1a8fffd7a4b29c48649c10a5b4c12b4527ebedce3e3851ab2b1d424e45",
+        "39ed6e8fba149bf275328ac702d25b36f16df29d8dc8efda3e9710f1339e9616"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-kkqsKp6gMG0",
+      "text": "선택한 공식 영상. 다혜 - Poison MBC 음악중심 공식 채널. MBCkpop 공개일. 2020-10-10 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "73c2b834932d7701e5a0fc5564f418a744f2946d5b15bbe72a72ad88fcf8e6d3",
+        "99198cec069cafa33e17af2146e03009ef132711f538f98b088a98c6252d43e3"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-Ei96w_p0Uck",
+      "text": "선택한 공식 영상. DaHye - Poison Simply K-Pop 공식 채널. ARIRANG K-POP 공개일. 2020-10-16 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "538347ac571af807a8e5bae6c649f45d2e25dfcfb2e6f63f5a07e7611ef9d8f8",
+        "dcb76af009ea29ab8ec4cb70718f97a7dfa49f31c3d5bad6af5cb500c98178af"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-c1t95kMCE9M",
+      "text": "선택한 공식 영상. DaHye - Poison Ep.437 공식 채널. ARIRANG K-POP 공개일. 2020-10-23 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "25f58f0992a334967a4b3d5ce9a3b881421ec2d3808d61cfa28ddd22bdfa9b76",
+        "5486bf8ff76d6bdc845b1d877b276e1c6df0a834966f8c833ffc686c02c6e373"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-Mq9p9gexmx8",
+      "text": "선택한 공식 영상. 다혜 직캠 Cherry Road @MCOUNTDOWN 공식 채널. M2 공개일. 2025-02-06 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "5384f9b60f1025eea27b458fe0e9ef379aa112b54fef7600c5c43071964cc1c0",
+        "5486bf8ff76d6bdc845b1d877b276e1c6df0a834966f8c833ffc686c02c6e373"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-qbeq6qEUW_k",
+      "text": "선택한 공식 영상. 250221 Cherry Road 공식 채널. 다혜가다했다DAHYE 공개일. 2025-03-08 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "54b8e693cfa8ebdf0c9ee5b40641026af64922b64914b5e5e38cda18f6f01f34",
+        "c0e2331f9110e0523538f10bd017e573db3994d9baabe022cbf504b15403d372"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song--RsSHRZlB94",
+      "text": "선택한 공식 영상. 다혜 Lemon Cherry Bomb 엠카운트다운 공식 채널. Mnet K-POP 공개일. 2025-08-28 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "4e20434cf94e1766b63213db3232f60b6760c3dd96cc4d0e8b171584b6087e3f",
+        "ff264339ac40ec74be9c8d103203d1eae7cbfbc64ee7a3e20ba0241b2ed2d5ee"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-dBoY4WF8Uaw",
+      "text": "선택한 공식 영상. Dahye - Lemon Cherry Bomb Music Bank 공식 채널. KBS WORLD TV 공개일. 2025-09-12 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "63e6a38d4584736bd4ab1f1a78f43165a48d435ef0eaf248095298e7a06e717c",
+        "731248a729d479de964042ac3133a9469fb7b1580d6537f055d57405dc8c1dd2"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "song-ItrusW6yhgQ",
+      "text": "선택한 공식 영상. RACE 다혜 뮤직뱅크 공식 채널. KBS Kpop 공개일. 2025-09-19 다혜의 공식 댄스·무대 영상이에요. 영상 화질은 YouTube 재생 환경과 원본에 따라 달라요. 영상 재생은 공식 플레이어나 유튜브 링크를 이용해요. 직접 넣은 가사, 연습 메모와 녹음은 읽거나 음성 서비스에 보내지 않아요.",
+      "chunks": [
+        "6d28bf5a26d9f4dfc4d2954fdfd48fa2d9917cccab971c1e6d1b5f1591c8a119",
+        "f74cc774009486b8514a4642dcf562aafb3c5672723e1098d1ba38e18eb17fe8"
+      ],
+      "partial": false,
+      "complete": true
+    },
+    {
+      "id": "photo-bestie-NPqtL1dtrlA",
+      "text": "선택한 사진 카드. 연애의 조건 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "a41d621672c695ffb96714a71462397748a948965da347f79d015bea39ef060c"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-ZTXoBPycEB0",
+      "text": "선택한 사진 카드. 연애의 조건 · 2013 무대 출처. Mnet K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "7db1c30c699a1fb75250668868af2da9e4edcf4bbed06600e39e01636332f5a9"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-o6KvKuSviA0",
+      "text": "선택한 사진 카드. 연애의 조건 · 2026 무대 출처. MBCkpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "4d30d4b308b7c9d355e637bdd2543aa59d95be00d8c3cc7f34e7a2df5a482d92"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-AuVi2ib-0qQ",
+      "text": "선택한 사진 카드. Excuse Me 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "4e0cbb754244f8e6d47f656a4208652057c6c90dfd1bfdd444fc6cefe795f2c6"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-mS0-Rw2mfco",
+      "text": "선택한 사진 카드. Hot Baby 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "7fec63eff77f88dfe57679163a2889d87c06aadc5dcaed735c5d3dda77fe02eb"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-8sat420G6Uc",
+      "text": "선택한 사진 카드. 니가 필요해 출처. MBCkpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "052c064ff9888ba2aed52be56910e5a17ea26eecc1b789915ea099044a04b582"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-gtyi5LQdfBE",
+      "text": "선택한 사진 카드. 두근두근 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "e989b5de0c201a275873bb59ee8ab88aa5110fc413e8be09fde0dd84841ae089"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-BS3BYJYhEk4",
+      "text": "선택한 사진 카드. THANK U VERY MUCH 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "15c754d5115960527a41dc4fecf229cb1c7fc5dfd9915813752050027fcd1e25"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-bestie-4PWRxR92meA",
+      "text": "선택한 사진 카드. Excuse Me · 뮤직뱅크 출처. KBS WORLD TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "61371e73f3ec430541e7c7b72b1b5d3659e047bf2f2228ef77b1ec145e4ac1f5"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-fU0tybevRVs",
+      "text": "선택한 사진 카드. 다혜 · 베스티 비하인드 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "e3f50a7c45b7bd17c92d1ddc967957c2c1d04032dd1a03afa9d978f2e2c7ce78"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-zTipERjTTmo",
+      "text": "선택한 사진 카드. 다혜 · Poison 출처. STONE MUSIC 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "6bb9a9b93f1f9d08d374d5ab229d1f536a2913005a3da8c8693e67bf48d9abef"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-d8YSuVGvqmk",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 (Bad Blood) 출처. STONE MUSIC 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "0b0ef5bf174603c02aedf0bf3c83e6fc9c9161652f463ebc01cc72b8f1c771e1"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-w1ffz0t5rRE",
+      "text": "선택한 사진 카드. 다혜 · RACE 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "2fd591146ed397f7768600e23b211b4dd18b4644320f49fce6f63cf75c41c73c"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-G5pjHc5ILB8",
+      "text": "선택한 사진 카드. 다혜 · 이별은 처음이라서 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "30b38c2f88ba44febc82139a206ca2d0490d9fed5653169315602bfea54f67ee"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-Z-pAsnR3lsM",
+      "text": "선택한 사진 카드. 다혜 · 연애의 조건 · 2026 안무 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "c33c86669385128a4a16cbab73ff78a34336727ca286d1254667c10febbca0cb"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-nMHX2LPcekw",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 제주 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "a93ef01243cb4f1ac3eb7ffa66eedad0ec2fbeeaca771c48718bf85979608c08"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-Uweb3I9Z3sM",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 본가 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "29b8d8d99d89f7784619362a6c91ac68b79338192aa557bb6d7471554888c041"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-ON52RSgmZWQ",
+      "text": "선택한 사진 카드. 다혜 · 다혜 생일 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "2c6d10bde8b4c75b7bc77afe1cd3e1b3d1649f96e4365e50c8f708f22ddf02af"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-ruD_eOOjL58",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 대만 여행 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "1934567d4f932ada58de5e81c0b6f8830d5635f2b3e7b1a3204596df8b97ca78"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-hR2Tc3qYdzc",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 Q&A 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "9f1ab7f33a4b59756c43fd039ebd26117690400b86d03388875d8a467206b371"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-HpR9yE21nbY",
+      "text": "선택한 사진 카드. 다혜 · 포이즌 MV 메이킹 출처. 월스TV 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "4ea3565853629941a098689e6ec99a7102ff3fa58d50e27d36caead64d6a2a74"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-Q6u1DSpmF0g",
+      "text": "선택한 사진 카드. 다혜 · Poison · 공식 무대 출처. THE K-POP 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "8f760c5535c84d8c742f08c98be291ec37567b0a59d0e932dca36a80cd6fd946"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-CeRmb0fZuxE",
+      "text": "선택한 사진 카드. 다혜 · Super Love · 다혜 댄스 커버 출처. 다혜가다했다DAHYE 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "f6d8e719088923b0f06b4fb917584ba051f94ed15626077d209b141ae3d863a2"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-szs1nvuWfkc",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 · 안무 연습 출처. 월스TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "0ebcadefae437cad655b43fbe8cee2a3b28ce6f10395fe6f2209bd0a841521b4"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-hChdavbVpeQ",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 · 안무 버전 출처. 월스TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "eca17a004be2a0c260fe0b1afbb31d79e0abf2e1dbcb68a78d134061d8998f71"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video--nrROTgYZl8",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 · Simply K-Pop 출처. ARIRANG K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "4d542454deac4d75f002bd5a81ad5b6a7835850dc79a38ed9e6a553253faf672"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-kkqsKp6gMG0",
+      "text": "선택한 사진 카드. 다혜 · Poison · 음악중심 출처. MBCkpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "2f857d805e8b0eb9932bcfae73c2ad1adddfec51ab4c831762304dfe747ac921"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-Ei96w_p0Uck",
+      "text": "선택한 사진 카드. 다혜 · Poison · Simply K-Pop 출처. ARIRANG K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "b0819f451ad40b522daba0315f75ead044482da29ec43f2c3e29225d1948cf1a"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-c1t95kMCE9M",
+      "text": "선택한 사진 카드. 다혜 · Poison · 스페셜 무대 출처. ARIRANG K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "11ab068cb0567dc0386be7116ba18bbc2babe28bebbd37418f07ab6333deb938"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-Mq9p9gexmx8",
+      "text": "선택한 사진 카드. 다혜 · Cherry Road · 다혜 직캠 출처. M2 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "68f167bf5c0a6d90b4878f1ff3e1794636d99931e327ce4afc513b79aa7df323"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-qbeq6qEUW_k",
+      "text": "선택한 사진 카드. 다혜 · Cherry Road · 콘서트 출처. 다혜가다했다DAHYE 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "dfe4e1e635ef8b9a26fda7fdba6ca27ae6ae1cb5f88bca3b39ca3224d5e43b19"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video--RsSHRZlB94",
+      "text": "선택한 사진 카드. 다혜 · Lemon Cherry Bomb · 엠카 출처. Mnet K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "2d712d59295e4cb814d7d26a4113f1efa5594e951e39f1ab909a59c90e7df342"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-dBoY4WF8Uaw",
+      "text": "선택한 사진 카드. 다혜 · Lemon Cherry Bomb · 뮤직뱅크 출처. KBS WORLD TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "fd9b4a61c072410c0af0dcf7248e0f30e4518a261c91e31cbca82b662c6c8f73"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "photo-dahye-video-ItrusW6yhgQ",
+      "text": "선택한 사진 카드. 다혜 · RACE · 뮤직뱅크 출처. KBS Kpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요.",
+      "chunks": [
+        "65aa6b5d60e8ab6126ac4b93cadb86beed7f8b89c8debf7e6fbf3295b8688b5e"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-NPqtL1dtrlA",
+      "text": "선택한 사진 카드. 연애의 조건 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 영어 이름은? BESTie 공식 뮤직비디오 제목에서 BESTie로 표기해요.",
+      "chunks": [
+        "b9ecf55206b5cc36eaad18887f1c8b6db501fcb927a4d2fb021fe52b426cc27d"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-ZTXoBPycEB0",
+      "text": "선택한 사진 카드. 연애의 조건 · 2013 무대 출처. Mnet K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 네 멤버는? 혜연·유지·다혜·해령 Excuse Me 공식 MV 설명에 네 멤버가 소개돼요.",
+      "chunks": [
+        "ada634da0d769ab6762bb57b693b04c425fa2479679d359c71920b75e961cc7d",
+        "c2cd61f09881159e0b42a6844d144dd1163dd817c08c770ded7d48fcd1be3c89"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-o6KvKuSviA0",
+      "text": "선택한 사진 카드. 연애의 조건 · 2026 무대 출처. MBCkpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 최근 역주행으로 재조명된 노래는? 연애의 조건 2026년 역주행 및 완전체 음악방송 출연이 보도됐어요.",
+      "chunks": [
+        "2dd97659c04b4db5380912ef7d06581d0161e33fd3cb75300b44c1a21cdbdb98",
+        "5cc65a4838de1acb336f3925f209b98c1f0d75df45831bd669bbfe77f00e87a6"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-AuVi2ib-0qQ",
+      "text": "선택한 사진 카드. Excuse Me 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 연애의 조건의 영어 제목은? Love Options 공식 MV 제목은 Love Options(연애의 조건)이에요.",
+      "chunks": [
+        "a0793064bab36a623990c639082fcddec7d1c6b6104129cd319966ab2f9ef027",
+        "abed5d62d6b9cd1ef1825714a29ff9695d176e38830486482c6fe4ae007d25a1"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-mS0-Rw2mfco",
+      "text": "선택한 사진 카드. Hot Baby 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 데뷔곡은? 두근두근 두근두근 공식 MV는 2013년 7월 12일 공개됐어요.",
+      "chunks": [
+        "a70325902a4f3b860450d39b5749ed0b4f456244ccbebc532a8ce0a9c8772c27"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-8sat420G6Uc",
+      "text": "선택한 사진 카드. 니가 필요해 출처. MBCkpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 두근두근의 영어 제목은? Pitapat 공식 뮤직비디오 제목에서 Pitapat으로 확인해요.",
+      "chunks": [
+        "6e5c8ac76bb13ce2707aa862a1145d2db8a53d399cb684aa545db42ede3fc7ae"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-gtyi5LQdfBE",
+      "text": "선택한 사진 카드. 두근두근 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 2015년 공개된 베스티 MV는? Excuse Me Excuse Me 공식 MV는 2015년 5월 8일 공개됐어요.",
+      "chunks": [
+        "df315ec64383910ddf80d20da323dbdb6a0812af0f494c0c4b2b040cc004197f",
+        "3cdb21e0842eacd4a6c40e7ccbb479108e2be480279a2f8cf25bcbad23c3f3b2"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-BS3BYJYhEk4",
+      "text": "선택한 사진 카드. THANK U VERY MUCH 출처. 1theK (원더케이) 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. Hot Baby 공식 MV가 공개된 해는? 2014년 1theK의 Hot Baby MV는 2014년 7월 28일 공개됐어요.",
+      "chunks": [
+        "1cbe79d7c90322b8e903e8de96253b560b3134b4cca9580aa252dd54ae1616bd",
+        "923a25c70c77413baf04ff1c29afe875e32ae2873b6b540c9117afe0481a0288"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-bestie-4PWRxR92meA",
+      "text": "선택한 사진 카드. Excuse Me · 뮤직뱅크 출처. KBS WORLD TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 감사의 말을 담은 영어 제목의 곡은? THANK U VERY MUCH 공식 MV의 제목 표기는 THANK U VERY MUCH예요.",
+      "chunks": [
+        "5ce9b138d0fb2daf2b1518d8fa55699ab8e75e501f599dc9192f7c3a63d33ddd",
+        "c6c0eb3429454127d87045c824b33f542665b7bbe8e7ceef9f338d9d7c1ef439"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-fU0tybevRVs",
+      "text": "선택한 사진 카드. 다혜 · 베스티 비하인드 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 니가 필요해의 영어 제목은? I Need You MBCkpop 무대 제목에서 I Need You를 확인해요.",
+      "chunks": [
+        "121a754d0b0b8d88af1a2408b837df8b66d7737a170f3030b5aee337f4ae2cd2",
+        "d643aa6120f3a3f2945310708a5e30e14b67334a3252a1c3a0459be270b1430e"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-zTipERjTTmo",
+      "text": "선택한 사진 카드. 다혜 · Poison 출처. STONE MUSIC 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 2013년 연애의 조건 무대가 연결된 방송은? 엠카운트다운 Mnet K-POP에 2013년 10월 17일 엠카운트다운 무대가 공개됐어요.",
+      "chunks": [
+        "6786b2221555da2805132a95cc2f222bd4e915dbe74d6311ffd7c5da2f8e2fad",
+        "fd4aaac49c7f54e1ebeb159860f29529ac5b0f9d2c049d705c7d92a09cb945a5"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-d8YSuVGvqmk",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 (Bad Blood) 출처. STONE MUSIC 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 이 앱에서 노래 원음은 어디서 들을까요? 공식 YouTube 영상 앱은 음원 파일을 배포하지 않고 공식 영상으로 연결해요.",
+      "chunks": [
+        "c9d48e4a4090828b852609a0dc008f740f4f285218285eeb21305bb14c926332",
+        "e2113c015e535a4fa4370c2ce5471db9fdb629c76392d34fd7fa913403a660a9"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-w1ffz0t5rRE",
+      "text": "선택한 사진 카드. 다혜 · RACE 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 영어 이름은? BESTie 공식 뮤직비디오 제목에서 BESTie로 표기해요.",
+      "chunks": [
+        "82c58ddfd30f635429729481fe91fd7da380417d3efeeb8f3aa4953cc30dc4f7"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-G5pjHc5ILB8",
+      "text": "선택한 사진 카드. 다혜 · 이별은 처음이라서 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 네 멤버는? 혜연·유지·다혜·해령 Excuse Me 공식 MV 설명에 네 멤버가 소개돼요.",
+      "chunks": [
+        "db34cc9d7f721e097e893ba9a8adda052ef5b421c4c716cb76a7652698d4475d"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-Z-pAsnR3lsM",
+      "text": "선택한 사진 카드. 다혜 · 연애의 조건 · 2026 안무 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 최근 역주행으로 재조명된 노래는? 연애의 조건 2026년 역주행 및 완전체 음악방송 출연이 보도됐어요.",
+      "chunks": [
+        "f6f045fec8ec4e09c77976ba2b87f9a0e21f4697477c823db55a717cc304e28b",
+        "cb01cbfdcb4711a17c651f0b3fc8eb95e5d08128177cd3626f0bd0d74255f388"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-nMHX2LPcekw",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 제주 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 연애의 조건의 영어 제목은? Love Options 공식 MV 제목은 Love Options(연애의 조건)이에요.",
+      "chunks": [
+        "d29d3068d2b49abab3f969e6bcf18f19e089efdcda68d32a2d2ba0d11450fa5a",
+        "8c7e51e228de672766b3d9cb5f9ec8c1cbf7bb92143f0805cd11b441bfe11f7b"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-Uweb3I9Z3sM",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 본가 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 데뷔곡은? 두근두근 두근두근 공식 MV는 2013년 7월 12일 공개됐어요.",
+      "chunks": [
+        "954940fda321529397ab28d400f0aa212e0edf333bd81b1bfd5b295c20474abc"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-ON52RSgmZWQ",
+      "text": "선택한 사진 카드. 다혜 · 다혜 생일 브이로그 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 두근두근의 영어 제목은? Pitapat 공식 뮤직비디오 제목에서 Pitapat으로 확인해요.",
+      "chunks": [
+        "6ba26784ccfd9894f5aad3a50f5b3e39f8d4ed5a26432972ed2888e09a5ae065"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-ruD_eOOjL58",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 대만 여행 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 2015년 공개된 베스티 MV는? Excuse Me Excuse Me 공식 MV는 2015년 5월 8일 공개됐어요.",
+      "chunks": [
+        "03107b2cc3da0b3195bb5fa168792cabdc713707387b643ee95f506982898380",
+        "cf733e860696a85db8290ec0d9624f6219b9a49c9712c82a26faf55988336072"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-hR2Tc3qYdzc",
+      "text": "선택한 사진 카드. 다혜 · 다혜의 Q&A 출처. 다혜가다했다DAHYE 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. Hot Baby 공식 MV가 공개된 해는? 2014년 1theK의 Hot Baby MV는 2014년 7월 28일 공개됐어요.",
+      "chunks": [
+        "51c790e033b0e7ddf5af7c24aab50d0917a3de194e746720bbd0cdb877e5a50a",
+        "367e8826346e9f388a0bd5bbbb5b2f914249c53ab525e0452c96003d9944a010"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-HpR9yE21nbY",
+      "text": "선택한 사진 카드. 다혜 · 포이즌 MV 메이킹 출처. 월스TV 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 감사의 말을 담은 영어 제목의 곡은? THANK U VERY MUCH 공식 MV의 제목 표기는 THANK U VERY MUCH예요.",
+      "chunks": [
+        "0bd061b3d56cebcb2626f3168bbd394f06478d4088e3149cb4e0f1f1027ace2f",
+        "498be781a9165b53ab72817e4ebb1bf14e9b204d3ee63ae53f119d3f400b0914"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-Q6u1DSpmF0g",
+      "text": "선택한 사진 카드. 다혜 · Poison · 공식 무대 출처. THE K-POP 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 니가 필요해의 영어 제목은? I Need You MBCkpop 무대 제목에서 I Need You를 확인해요.",
+      "chunks": [
+        "91b9b78bdf18b812fa4f325146a720dbde4f12642e25f66a028448406b95deda",
+        "d643aa6120f3a3f2945310708a5e30e14b67334a3252a1c3a0459be270b1430e"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-CeRmb0fZuxE",
+      "text": "선택한 사진 카드. 다혜 · Super Love · 다혜 댄스 커버 출처. 다혜가다했다DAHYE 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 2013년 연애의 조건 무대가 연결된 방송은? 엠카운트다운 Mnet K-POP에 2013년 10월 17일 엠카운트다운 무대가 공개됐어요.",
+      "chunks": [
+        "cf0ebbcf86ba0721d61ab83ea97b5cc48bc737484b978822006cced370284c48",
+        "a0b9b10dcba67d62d3b68b107443640511e34b3e2e9ed2c856947f9a52d7fb22"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-szs1nvuWfkc",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 · 안무 연습 출처. 월스TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 이 앱에서 노래 원음은 어디서 들을까요? 공식 YouTube 영상 앱은 음원 파일을 배포하지 않고 공식 영상으로 연결해요.",
+      "chunks": [
+        "533685615142e27ce00e537fdb28c1ddd54df611e563132ffc35d0b3a97d6320",
+        "922356aa797c1e60a241a9b670d25469a6a6241b8beee2d36f2db1b2a4834f7b"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-hChdavbVpeQ",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 · 안무 버전 출처. 월스TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 영어 이름은? BESTie 공식 뮤직비디오 제목에서 BESTie로 표기해요.",
+      "chunks": [
+        "0dd80803f14bed09ed1055adbf00de7490ce05073660d0d3c6a7f5a976819d76"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video--nrROTgYZl8",
+      "text": "선택한 사진 카드. 다혜 · 나쁜 피 · Simply K-Pop 출처. ARIRANG K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 네 멤버는? 혜연·유지·다혜·해령 Excuse Me 공식 MV 설명에 네 멤버가 소개돼요.",
+      "chunks": [
+        "99700754733a9a87c52c65e66cd87dc4a993c87d2dffdb1c79b6e457047ee7c7",
+        "7efa99059d0dc59378d99b4ee5438644442d72bae6a4b100076e9dc1db2dcd66"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-kkqsKp6gMG0",
+      "text": "선택한 사진 카드. 다혜 · Poison · 음악중심 출처. MBCkpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 최근 역주행으로 재조명된 노래는? 연애의 조건 2026년 역주행 및 완전체 음악방송 출연이 보도됐어요.",
+      "chunks": [
+        "b7f946a54331d2a4474c159b38ece361244fce65dac607d5836bd07716c5880e",
+        "5cc65a4838de1acb336f3925f209b98c1f0d75df45831bd669bbfe77f00e87a6"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-Ei96w_p0Uck",
+      "text": "선택한 사진 카드. 다혜 · Poison · Simply K-Pop 출처. ARIRANG K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 연애의 조건의 영어 제목은? Love Options 공식 MV 제목은 Love Options(연애의 조건)이에요.",
+      "chunks": [
+        "f04c9a8e71f581601f9d3e2b8ccce859f39c7ecfd0dc21ae43ef877ebf4eb003",
+        "35884a07738705527e0d86b5afec3250abc4eed25e1387d892578dc384af3916"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-c1t95kMCE9M",
+      "text": "선택한 사진 카드. 다혜 · Poison · 스페셜 무대 출처. ARIRANG K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 베스티의 데뷔곡은? 두근두근 두근두근 공식 MV는 2013년 7월 12일 공개됐어요.",
+      "chunks": [
+        "b0825526dfd4345daf31ab16979fe242cf296da2729b280cce8d3353e2fafa73",
+        "3cdb21e0842eacd4a6c40e7ccbb479108e2be480279a2f8cf25bcbad23c3f3b2"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-Mq9p9gexmx8",
+      "text": "선택한 사진 카드. 다혜 · Cherry Road · 다혜 직캠 출처. M2 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 두근두근의 영어 제목은? Pitapat 공식 뮤직비디오 제목에서 Pitapat으로 확인해요.",
+      "chunks": [
+        "8dabda2b8ae7a514825519635c689e941174f9a7bf785bb395a93cf9b82fab29"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-qbeq6qEUW_k",
+      "text": "선택한 사진 카드. 다혜 · Cherry Road · 콘서트 출처. 다혜가다했다DAHYE 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 2015년 공개된 베스티 MV는? Excuse Me Excuse Me 공식 MV는 2015년 5월 8일 공개됐어요.",
+      "chunks": [
+        "05ac9e57d3cb1ef441c240227aa1af6278f746ee0a1084fb20b2fef266552b7a",
+        "dc2fe58bf231a082d9c1dadb6a7f0b475ce2b94e39b5911c497ff304f993a105"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video--RsSHRZlB94",
+      "text": "선택한 사진 카드. 다혜 · Lemon Cherry Bomb · 엠카 출처. Mnet K-POP 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. Hot Baby 공식 MV가 공개된 해는? 2014년 1theK의 Hot Baby MV는 2014년 7월 28일 공개됐어요.",
+      "chunks": [
+        "f1e87879a1d2970b00aeb284bd2d7f395a47a44a7441ac12cc41a71b080aacf7",
+        "8b5d7faba1b147d900e9bc8c4cd7142faf87f65a3e74d851127f24fe7ee07e7b"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-dBoY4WF8Uaw",
+      "text": "선택한 사진 카드. 다혜 · Lemon Cherry Bomb · 뮤직뱅크 출처. KBS WORLD TV 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 감사의 말을 담은 영어 제목의 곡은? THANK U VERY MUCH 공식 MV의 제목 표기는 THANK U VERY MUCH예요.",
+      "chunks": [
+        "fbfc9ffdf3301c4e9b8db5d158a4691bb4b8ddbe03da1e221f4af3c5f6ec1c71",
+        "ab70e4b419a58439142043630c1d61cd3471ac39922705d1cde29643ed13e84c"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "back-dahye-video-ItrusW6yhgQ",
+      "text": "선택한 사진 카드. 다혜 · RACE · 뮤직뱅크 출처. KBS Kpop 공식 영상 표지 영상 표지 이미지의 권리는 원권리자에게 있어요. 개인 찜 기록은 읽지 않아요. 공개 카드 이야기. 니가 필요해의 영어 제목은? I Need You MBCkpop 무대 제목에서 I Need You를 확인해요.",
+      "chunks": [
+        "82ae481a64394ec65ebb3ce6885938a0864c74d8ece6a892fe2d1800109eff70",
+        "9fc076aa0a0d675b3e429dbbc8727f7ecac950ef589fde6920b8ae800b1b30e0"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q0",
+      "text": "베스티의 영어 이름은? 보기. BESTie. BESTY. BEAST 정답. BESTie. 공식 뮤직비디오 제목에서 BESTie로 표기해요.",
+      "chunks": [
+        "7774e501befb1affd47e58f3dccc7e48e3f93ff3272a3ee6e9d36d798c19337b"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q1",
+      "text": "베스티의 네 멤버는? 보기. 혜연·유지·다혜·해령. 혜연·유지·다혜. 혜연·해령 정답. 혜연·유지·다혜·해령. Excuse Me 공식 MV 설명에 네 멤버가 소개돼요.",
+      "chunks": [
+        "619df4db254a61eacca4e8a5fd51d2f8a34c4c943f9bf523414a499f2410798a"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q2",
+      "text": "최근 역주행으로 재조명된 노래는? 보기. 연애의 조건. 두근두근. Hot Baby 정답. 연애의 조건. 2026년 역주행 및 완전체 음악방송 출연이 보도됐어요.",
+      "chunks": [
+        "69f3a082eb0cd3bf1c7df2f70f4ffa117f3d538e8eeea9a434e5aa70fd530143"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q3",
+      "text": "연애의 조건의 영어 제목은? 보기. Love Options. Love Emotion. Love Story 정답. Love Options. 공식 MV 제목은 Love Options(연애의 조건)이에요.",
+      "chunks": [
+        "603af13d322a1a112d834d095c70a2a929604b4de76224621a26a7fba37e4e18"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q4",
+      "text": "베스티의 데뷔곡은? 보기. 두근두근. Excuse Me. 니가 필요해 정답. 두근두근. 두근두근 공식 MV는 2013년 7월 12일 공개됐어요.",
+      "chunks": [
+        "d8bbb403d80925df0a9d0fcb8c66869a9c5f1b69f29aa889dff54edea7fea566"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q5",
+      "text": "두근두근의 영어 제목은? 보기. Pitapat. Heartbeat. Hot Baby 정답. Pitapat. 공식 뮤직비디오 제목에서 Pitapat으로 확인해요.",
+      "chunks": [
+        "5d2da2c90e11fde7546a197d781d04d951ca68846c3044e553aa87ec171da93e"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q6",
+      "text": "2015년 공개된 베스티 MV는? 보기. Excuse Me. 두근두근. 연애의 조건 정답. Excuse Me. Excuse Me 공식 MV는 2015년 5월 8일 공개됐어요.",
+      "chunks": [
+        "a00d182c43856fec11f4605dd1fe016aa11596c3cb20909a4b3845a6795b7847"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q7",
+      "text": "Hot Baby 공식 MV가 공개된 해는? 보기. 2014년. 2013년. 2015년 정답. 2014년. 1theK의 Hot Baby MV는 2014년 7월 28일 공개됐어요.",
+      "chunks": [
+        "45f80307315f8280957c50b3fabdab9b12abf94bbb0781af6b40da740f3d5b16"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q8",
+      "text": "감사의 말을 담은 영어 제목의 곡은? 보기. THANK U VERY MUCH. Excuse Me. Love Options 정답. THANK U VERY MUCH. 공식 MV의 제목 표기는 THANK U VERY MUCH예요.",
+      "chunks": [
+        "560cfa388ce03c130c42f30b3ad0a36b5fa554cdf090ef7184f0591a7c784f8d"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q9",
+      "text": "니가 필요해의 영어 제목은? 보기. I Need You. I Love You. I Miss You 정답. I Need You. MBCkpop 무대 제목에서 I Need You를 확인해요.",
+      "chunks": [
+        "13289308b6d12889598d7ac92c88ee094472d41e05c58937b96341570542ff3c"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q10",
+      "text": "2013년 연애의 조건 무대가 연결된 방송은? 보기. 엠카운트다운. 인기가요. 뮤직뱅크 정답. 엠카운트다운. Mnet K-POP에 2013년 10월 17일 엠카운트다운 무대가 공개됐어요.",
+      "chunks": [
+        "5ef7b96e43e785ccc9cc635cc0c9808ac47e5eb41c1639cfe435c8618f8a066f"
+      ],
+      "partial": false,
+      "complete": false
+    },
+    {
+      "id": "answer-q11",
+      "text": "이 앱에서 노래 원음은 어디서 들을까요? 보기. 공식 YouTube 영상. 앱에 포함된 MP3. 멤버와 실시간 통화 정답. 공식 YouTube 영상. 앱은 음원 파일을 배포하지 않고 공식 영상으로 연결해요.",
+      "chunks": [
+        "43d6c6c6d081265338fab53e49ab3e7a0e46e75a0c9d1c73f58f995f5c9be54c"
+      ],
+      "partial": false,
+      "complete": false
+    }
+  ]
+}
